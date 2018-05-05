@@ -1,0 +1,8 @@
+prefix=/home/dave/sdc_final_project/ros/devel
+
+Name: camera_info_publisher
+Description: Description of camera_info_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dave/sdc_final_project/ros/devel/lib 
+Requires: 

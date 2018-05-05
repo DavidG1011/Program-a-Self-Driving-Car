@@ -1,0 +1,8 @@
+prefix=/home/dave/sdc_final_project/ros/devel
+
+Name: common
+Description: Description of common
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dave/sdc_final_project/ros/devel/lib 
+Requires: 
